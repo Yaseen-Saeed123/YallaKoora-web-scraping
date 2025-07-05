@@ -1,5 +1,6 @@
 # This is a web scraping project
 Languages used: Python
+
 Modules used: BeautifulSoup, requests & csv
 
 # Simple description of how the program works
